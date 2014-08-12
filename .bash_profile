@@ -46,4 +46,3 @@ source $BASH_IT/bash_it.sh
 HISTFILESIZE=1000000
 HISTSIZE=1000000
 
-alias workstation="ssh 134.213.60.189"
